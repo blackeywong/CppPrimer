@@ -1,0 +1,1 @@
+To avoid inputting password, need to produce private/public key pair first, then put public key to Git server. Before that, Git Server(Linux) should enable certificate auth for sshd.
